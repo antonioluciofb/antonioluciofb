@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 display="inline-block" align="center">Hi 👋, I'm Antonio Balardino</h1> 
 
-<!--
-**antonioluciofb/antonioluciofb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p> -->
+<p align='center'>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=ffffff&logo=Git&logoColor=F05032&label="  height="32 alt="Git logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=javascript&color=ffffff&logo=javascript&logoColor=F7DF1E&label=" height="32 alt="Javascript logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=typescript&color=ffffff&logo=typescript&logoColor=3178C6&label=" height="32 alt="Typescript logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=vue&color=ffffff&logo=vue.js&logoColor=4FC08D&label="  height="32 alt="Vue logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Quasar&color=ffffff&logo=Quasar&logoColor=1976D2&label="  height="32 alt="Quasar logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=ffffff&logo=React&logoColor=61DAFB&label="  height="32 alt="React logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NextJS&color=ffffff&logo=Next.JS&logoColor=000000&label="  height="32 alt="React logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCss&color=ffffff&logo=TailwindCss&logoColor=06B6D4&label="  height="32 alt="React logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=ffffff&logo=Express&logoColor=000000&label="  height="32 alt="Node logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDb&color=ffffff&logo=MongoDb&logoColor=47A248&label="  height="32 alt="MongoDB logo" />
+</p>
